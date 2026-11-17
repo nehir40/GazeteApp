@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0oahwLWZ+/s=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Casper\\source\\repos\\GazeteApp1\\GazeteApp1\\GazeteApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Casper\\.nuget\\packages\\htmlagilitypack\\1.12.4\\htmlagilitypack.1.12.4.nupkg.sha512"
+  ],
+  "logs": []
+}
